@@ -17,7 +17,7 @@ public class Principal {
 		
 		System.out.println(lista1);
 		
-		Collections.fill(lista1, "Bien");
+		Collections.fill(lista1, "Buenas tardes");
 		
 		System.out.println(lista1);
 	}
