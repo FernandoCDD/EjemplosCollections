@@ -9,14 +9,11 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		List <Integer> lista1 = new ArrayList<Integer>();
+		// En esta lista, un usuario no puede ni modificar, ni agregar 
+		// ni borrar nada.
 		
-		lista1.add(1);
-		lista1.add(null);
-		lista1.add(3);
-		
-		Collections.enumeration(lista1);
-		
+		List <String> listaInmutable = Collections.emptyList();
+	
 		
 	}
 

@@ -26,6 +26,8 @@ public class Principal {
 		// Lista con addAll
 		System.out.println(lista);
 		
+	
+		
 	}
 
 }

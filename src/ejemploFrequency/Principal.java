@@ -15,7 +15,7 @@ public class Principal {
 		
 		System.out.println("¿Cuántas veces se repite el 2?");
 		System.out.println("Se repite: "+Collections.frequency(lista1, 2)+" veces.");
-					
+		
 	}
 
 }

@@ -21,13 +21,10 @@ public class Principal {
 		System.out.println(fuente);
 		List <String> buscador = new ArrayList <String>();
 		
-		buscador.add("C");
-		buscador.add("D");
-		buscador.add("E");
-		buscador.add("F");		
+		buscador.add("F");
+		
 		System.out.println(buscador);
 		System.out.println(Collections.indexOfSubList(fuente, buscador));
-		System.out.println(Collections.lastIndexOfSubList(fuente, buscador));
 		
 	}
 

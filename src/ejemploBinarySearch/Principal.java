@@ -23,7 +23,6 @@ public class Principal {
 		numeros.add(9);
 	
 		System.out.println(Collections.binarySearch(numeros, 7));
-		
 			
 	}
 
